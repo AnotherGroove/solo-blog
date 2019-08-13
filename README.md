@@ -10,6 +10,7 @@ sparkyss 的个人博客
 
 ### 最新
 
+* [Docker方式部署Solo博客系统全流程](http://www.grophie.cn/articles/2019/08/11/1565525432139.html)
 * [世界，你好！](http://www.grophie.cn/hello-solo)
 
 
